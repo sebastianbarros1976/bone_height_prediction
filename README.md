@@ -91,7 +91,7 @@ Due to licensing restrictions, **the RSNA Bone Age Challenge dataset is not incl
 
 You must **download it manually** from the official RSNA page:
 
-➡️ [RSNA Pediatric Bone Age Challenge](https://www.rsna.org/en/education/ai-resources-and-training/ai-image-challenge/rsna-pediatric-bone-age-challenge)
+➡️ [RSNA Pediatric Bone Age Challenge](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pediatric-bone-age-challenge-2017)
 
 Once downloaded:
 - Place the images and annotation CSVs accordingly.
